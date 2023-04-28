@@ -31,7 +31,7 @@ class ProductItems extends StatelessWidget {
         crossAxisCount: 2,
         crossAxisSpacing: 5,
         mainAxisSpacing: 5,
-        childAspectRatio: 1 / 1.8,
+        childAspectRatio: 1 / 2,
       ),
       itemBuilder: (BuildContext ctx, int index) {
         return SizedBox(
