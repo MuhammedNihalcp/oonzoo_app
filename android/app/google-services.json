@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753102718966",
+    "project_id": "oonzoo-app-5200a",
+    "storage_bucket": "oonzoo-app-5200a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753102718966:android:9a192348baab82441429d7",
+        "android_client_info": {
+          "package_name": "in.brototype.oonzoo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753102718966-rjtorhg6icvc3b5fp67nccu850sbp4fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJR97ZVt7B3WIgk5AGTylMIcDgGanDSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753102718966-rjtorhg6icvc3b5fp67nccu850sbp4fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
