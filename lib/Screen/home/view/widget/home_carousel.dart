@@ -63,7 +63,7 @@ class HomeCarousel extends StatelessWidget {
         ),
         Positioned(
           top: height * 0.18,
-          left: width * 0.45,
+          left: width * 0.4,
           child: AnimatedSmoothIndicator(
             activeIndex: homecontroller.activeIndex,
             count: homecontroller.carousalImages.length,
