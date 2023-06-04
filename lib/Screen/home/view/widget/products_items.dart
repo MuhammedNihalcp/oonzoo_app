@@ -66,7 +66,7 @@ class ProductItems extends StatelessWidget {
                             image: NetworkImage(
                               homecontroller.productImages[index],
                             ),
-                            fit: BoxFit.cover,
+                            // fit: BoxFit.cover,
                           ),
                         ),
                       ),
